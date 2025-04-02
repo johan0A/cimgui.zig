@@ -3,24 +3,24 @@
     .version = "1.0.0",
     .dependencies = .{
         .glfw_zig = .{
-            .url = "git+https://github.com/tiawl/glfw.zig?ref=toolbox-1.12.2#647304bbb15c8f44d9a065036287961b11f73eaf",
-            .hash = "glfw_zig-1.0.0-NrvYo-7NFwDZa6nOh35PY_wM4_zSAb746ZaZtMYwyoC0",
+            .url = "git+https://github.com/tiawl/glfw.zig?ref=toolbox-1.12.3#b4d8976abce7dfdef2890780a19d246966c3b11f",
+            .hash = "glfw_zig-1.0.0-NrvYo-7NFwA0KW39IXrfQhdc_QuqeP8GsriEBCMQ2CL5",
         },
         .sdl = .{
             .url = "git+https://github.com/castholm/SDL#dbb1b96360658f5845ff6fac380c4f13d7276dc2",
             .hash = "sdl-0.2.0+3.2.8-7uIn9FxHfQE325TK7b0qpgt10G3x1xl-3ZMOfTzxUg3C",
         },
         .toolbox = .{
-            .url = "git+https://github.com/tiawl/toolbox?ref=1.12.2#67d692be90930554cff32282bcf31e230354bc5c",
-            .hash = "toolbox-1.12.2-kRAu4GRZAAAiIQjk8qdsjXVdSro7DI9pI8J82LGG4k4j",
+            .url = "git+https://github.com/tiawl/toolbox?ref=1.12.3#f5e5a5d604a274bc7a5a8ed975691537779c5d5c",
+            .hash = "toolbox-1.12.2-kRAu4CBaAADV5SqeC0c0SVLw08j8MP2hcGZxNv9V4y7A",
         },
         .zigglgen = .{
             .url = "git+https://github.com/castholm/zigglgen#d5f381759825ee0bac29bc294d47aa05be4ab7b5",
             .hash = "zigglgen-0.4.0-bmyqLX_gLQDFXilQ5VQ9fJeOHKU1RFrggOzRqTGBX79W",
         },
         .vulkan_zig = .{
-            .url = "git+https://github.com/tiawl/vulkan.zig?ref=toolbox-1.12.2#fc94da7c731f0178a4c5b5f933c1930dcabaf552",
-            .hash = "vulkan_zig-1.0.0-p2wg3tW-EAFxCkCLXr3ipiTEB0D-WTCR2DdW51qRFvkQ",
+            .url = "git+https://github.com/tiawl/vulkan.zig?ref=toolbox-1.12.3#3dad4416fba646b8913c22355ef181299e979bd8",
+            .hash = "vulkan_zig-1.0.0-p2wg3tW-EAEn7Q9R-n4MjP6iGXo-88VajsQbi7h2-mdd",
         },
     },
     .minimum_zig_version = "0.14.0",
